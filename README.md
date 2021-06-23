@@ -1,7 +1,7 @@
-# vscode-tuning
+# VScode-AntiStress
 MS VScode finishing.
 
-For those who are not satisfied with the use of standard keys HJKL.
+For those who are not satisfied with the use of standard Vim keys HJKL.
 Use JIKL.
 
 No need to switch modes and standard keys work as it was.
