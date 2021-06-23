@@ -1,0 +1,33 @@
+// Like Vim, but not HJKL. Use JIKL insted, like gamers
+[
+    {
+        "key": "CTRL+j",
+        "command": "cursorLeft",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "CTRL+SHIFT+j",
+        "command": "cursorWordEndLeft",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "CTRL+i",
+        "command": "cursorUp",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "CTRL+k",
+        "command": "cursorDown",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "CTRL+l",
+        "command": "cursorRight",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "CTRL+Shift+l",
+        "command": "cursorWordEndRight",
+        "when": "textInputFocus"
+    },
+]
