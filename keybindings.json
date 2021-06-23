@@ -36,7 +36,7 @@
         "when": "textInputFocus"
     },
     {
-        "key": "SHIFT+AlT+",
+        "key": "SHIFT+AlT+l",
         "command": "deleteRight",
         "when": "textInputFocus"
     },
