@@ -11,6 +11,11 @@
         "when": "textInputFocus"
     },
     {
+        "key": " SHIFT+ALT+j",
+        "command": "deleteLeft",
+        "when": "textInputFocus"
+    },
+    {
         "key": "CTRL+i",
         "command": "cursorUp",
         "when": "textInputFocus"
@@ -26,8 +31,13 @@
         "when": "textInputFocus"
     },
     {
-        "key": "CTRL+Shift+l",
+        "key": "CTRL+SHIFT+l",
         "command": "cursorWordEndRight",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "SHIFT+AlT+",
+        "command": "deleteRight",
         "when": "textInputFocus"
     },
 ]
